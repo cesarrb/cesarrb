@@ -8,7 +8,7 @@ Data scientist based in Lausanne, Switzerland. I spent 15+ years turning product
 |---|---|
 | [local-rag-assistant](https://github.com/cesarrb/local-rag-assistant) | Chat over your own transcripts and documents: hybrid retrieval, citations, switchable backends (Ollama, LM Studio, Claude) |
 | [quant-lab](https://github.com/cesarrb/quant-lab) | A calibrated backtesting harness with tests and reproducible runs |
-| [fondos-bankinter](https://github.com/cesarrb/fondos-bankinter) | Daily snapshot of 2,000+ mutual funds via GitHub Actions, published as a live web page |
+| [fondos-bankinter](https://github.com/cesarrb/fondos-bankinter) | Daily snapshot of 26,000+ mutual funds (Bankinter via GitHub Actions + IronIA), published as a live web page |
 
 **Stack:** Python (pandas, scikit-learn, FastAPI) · SQL · DuckDB · Docker · GitHub Actions · Ollama / MLX · Power BI · SAP data
 
